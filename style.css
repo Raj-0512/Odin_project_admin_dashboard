@@ -60,7 +60,7 @@ html, body {
     display:flex;
     flex-direction: column;
     margin-left: 20px;
-    gap: 20px;
+    gap: 12px;
     font-size: 22px;
     font-weight: bold;
 }
@@ -280,7 +280,7 @@ html, body {
     border-radius: 10px; /* Slightly less rounded corners */
     text-align: left; /* Align text to the left */
     background: white; /* Light grey background */
-    padding: 15px; /* Slightly more padding */
+    padding: 5px; /* Slightly more padding */
     font-family: sans-serif; /* Use a standard sans-serif font */
     max-width: none; /* Allow it to take the available width */
     word-wrap: break-word;
@@ -341,7 +341,7 @@ html, body {
     flex-direction: column;
     margin-left: 30px;
     margin-top: 3px;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 #images_name_whole_container{
